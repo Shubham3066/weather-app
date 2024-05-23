@@ -1,0 +1,1 @@
+I have designed a weather app which shows the current temperature of particualr city as entered.I have used html,css nd javascrit.I have linked my opencloud account for fetching the information of weather.
